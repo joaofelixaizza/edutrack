@@ -1,9 +1,11 @@
 # EduTrack AI 🎓
 
-Projeto da disciplina **Innovation Lab – Faculdade Impacta**  
-**Aluno:** João Vitor Felix Aizza da Silva  
-**Email:** joao.felix@aluno.impacta.edu.br  
-**Ano:** 2025/2026  
+Projeto da disciplina **Innovation Lab – Faculdade Impacta de Tecnologia**  
+- **Autores:**  
+  - Pedro Henrique Felix Aizza da Silva  
+  - João Vitor Felix Aizza da Silva (`joao.felix@aluno.impacta.edu.br`)  
+- **Ano:** 2025/2026  
+- **Documentação Completa:** [ESPECIFICACAO_COMPLETA_EDUTRACK.pdf](./ESPECIFICACAO_COMPLETA_EDUTRACK.pdf)  
 
 ---
 
