@@ -1,0 +1,33 @@
+# Ambientes e Segredos
+.env
+*.env
+backend/.env
+!.env.example
+!backend/.env.example
+
+# Banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+backend/edutrack.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
